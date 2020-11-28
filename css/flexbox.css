@@ -1,0 +1,16 @@
+.flex-container {
+    display: inline-flex;
+}
+
+.first {
+    background-color: aqua;
+}
+.second {
+    background-color: bisque;
+}
+.third {
+    background-color: brown;
+}
+.fourth {
+    background-color: cornflowerblue;
+}
